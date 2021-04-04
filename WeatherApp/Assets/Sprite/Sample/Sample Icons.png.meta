@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: ab4eea6d5f6a16845affec2998df2d9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5472622456429545312
+    second: Sample Icons_0
+  - first:
+      213: 2021227475286647677
+    second: Sample Icons_1
+  - first:
+      213: 2599793873489544633
+    second: Sample Icons_2
+  - first:
+      213: -2065068781429578982
+    second: Sample Icons_3
+  - first:
+      213: 3481206203878553541
+    second: Sample Icons_4
+  - first:
+      213: 630013733095070543
+    second: Sample Icons_5
+  - first:
+      213: 8050404632472776203
+    second: Sample Icons_6
+  - first:
+      213: 144274267985998438
+    second: Sample Icons_7
+  - first:
+      213: 833884756837282722
+    second: Sample Icons_8
+  - first:
+      213: -4771445714444058960
+    second: Sample Icons_9
+  - first:
+      213: -3635198674330478175
+    second: Sample Icons_10
+  - first:
+      213: 6896736351240794436
+    second: Sample Icons_11
+  - first:
+      213: -4127364290881968983
+    second: Sample Icons_12
+  - first:
+      213: -2280059003471163396
+    second: Sample Icons_13
+  - first:
+      213: -8554504060112874661
+    second: Sample Icons_14
+  - first:
+      213: 4583099307612079400
+    second: Sample Icons_15
+  - first:
+      213: 393737605662712174
+    second: Sample Icons_16
+  - first:
+      213: -8866114029489213191
+    second: Sample Icons_17
+  - first:
+      213: 7114302038364027331
+    second: Sample Icons_18
+  - first:
+      213: -5837071199365803198
+    second: Sample Icons_19
+  - first:
+      213: 8456226419518137727
+    second: Sample Icons_20
+  - first:
+      213: 4017350260854102959
+    second: Sample Icons_21
+  - first:
+      213: 4126167167342273282
+    second: Sample Icons_22
+  - first:
+      213: 2355465577362735528
+    second: Sample Icons_23
+  - first:
+      213: -1413469063395716713
+    second: Sample Icons_24
+  - first:
+      213: -2493307427864822407
+    second: Sample Icons_25
+  - first:
+      213: 7530847580206103773
+    second: Sample Icons_26
+  - first:
+      213: -757609939008317148
+    second: Sample Icons_27
+  - first:
+      213: -3516162719252522273
+    second: Sample Icons_28
+  - first:
+      213: 8635991564769564123
+    second: Sample Icons_29
+  - first:
+      213: 212905126996365649
+    second: Sample Icons_30
+  - first:
+      213: 1814331591127621146
+    second: Sample Icons_31
+  - first:
+      213: 3520568788672517005
+    second: Sample Icons_32
+  - first:
+      213: -3202577317489471987
+    second: Sample Icons_33
+  - first:
+      213: -6798802150422476564
+    second: Sample Icons_34
+  - first:
+      213: 7397366759640318328
+    second: Sample Icons_35
+  - first:
+      213: -7420416336460077327
+    second: Sample Icons_36
+  - first:
+      213: -102075520824585012
+    second: Sample Icons_37
+  - first:
+      213: 3285341157304336610
+    second: Sample Icons_38
+  - first:
+      213: 7037508176889810669
+    second: Sample Icons_39
+  - first:
+      213: 7419423216592457482
+    second: Sample Icons_40
+  - first:
+      213: -136986001103476319
+    second: Sample Icons_41
+  - first:
+      213: 5336594895780095067
+    second: Sample Icons_42
+  - first:
+      213: -2116237642537452128
+    second: Sample Icons_43
+  - first:
+      213: 3351085202584651988
+    second: Sample Icons_44
+  - first:
+      213: 1480510691680834457
+    second: Sample Icons_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sample Icons_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c73114299abf4030800000000000000
+      internalID: 3481206203878553541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample Icons_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 395
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee2b04c58c8bf60800000000000000
+      internalID: 8050404632472776203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample Icons_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 377
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a99f88d01e2d8dc0800000000000000
+      internalID: -3635198674330478175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample Icons_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188
+        width: 129
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0303ec34c35f480800000000000000
+      internalID: -8866114029489213191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample Icons_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 200
+        width: 128
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab188407ce70c730800000000000000
+      internalID: 4017350260854102959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample Icons_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4299a1346cd6c75f0800000000000000
+      internalID: -757609939008317148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample Icons_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda5b72e2a4143fc0800000000000000
+      internalID: -3516162719252522273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample Icons_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1515a71c51464f200800000000000000
+      internalID: 212905126996365649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample Icons_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 186
+        width: 104
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f874f0b1617f660800000000000000
+      internalID: 7419423216592457482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
